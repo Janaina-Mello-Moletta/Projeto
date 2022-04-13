@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PessoaAlunoController
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ PessoaAlunoController\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=nome\ telefone\ datadenascimento
+comment1.target=boolean\ pegaraDados(java.lang.String,\ java.lang.Integer,\ java.lang.Integer)
+comment1.text=\r\n\ M\u00E9todo\ que\ pega\ os\ dados\ da\ PessoaAluno\ para\ cadastrar\r\n\ \r\n\ @param\ String\ nome\r\n\ @param\ Integer\ telefone\r\n\ @param\ Integer\ datadenascimento\r\n\ @param\ Integer\ data\ de\ cadastro\ da\ pessoa\r\n\ @param\ Integer\ nota\ final\ do\ curso\r\n\ @param\ Double\ nota\ final\ \r\n\ @param\ Boolean\ true\ caso\ o\ curso\ informe\ a\ nota\ final\ do\ curso,deve\ ser\ criado\ um\ aluno\ caso\ n\u00E3o\ seja\ informada,deve\ ser\ criada\ uma\ pessoa\r\n\ \r\n
+numComments=2

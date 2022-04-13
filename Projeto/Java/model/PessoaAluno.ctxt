@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PessoaAluno
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ PessoaAluno\ aqui.\r\n\ \r\n\ @author\ (Janaina\ Mello\ Moletta)\ \r\n\ @version\ (11/04/2022)\r\n
+comment1.params=
+comment1.target=PessoaAluno()
+comment2.params=nome\ telefone\ datadenascimento
+comment2.target=PessoaAluno(java.lang.String,\ int,\ int)
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=telefone
+comment5.target=void\ setTelefone(java.lang.Integer)
+comment6.params=
+comment6.target=java.lang.Integer\ getTelefone()
+comment7.params=datadenascimento
+comment7.target=void\ setDatadadenascimento(java.lang.Integer)
+comment8.params=
+comment8.target=java.lang.Integer\ getdatadenascimento()
+numComments=9

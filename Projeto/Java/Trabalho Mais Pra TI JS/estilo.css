@@ -1,0 +1,23 @@
+h1{
+    font-family:sans-serif;
+    font-size:30px;
+    color:black;
+}
+.btn{ 
+    font-family:sans-serif;
+    font-size:15px;
+    text-transform:uppercase;
+    padding:10px;
+    font-weight:700;
+    cursor:pointer;
+    display:inline-block;
+    text-decoration:none;
+
+
+}
+.btn-gray{
+    background-color:gray;
+    color:black;
+    box-shadow:cadetblue;
+    border:none;
+}
